@@ -1,3 +1,4 @@
+// discounts.js (contiene i codici sconto)
 const discountCodes = [
     { code: "PRENOTAORA15", discountPercent: 20, expiryDate: new Date("2024-11-15") },
     { code: "PRENOTAORA16", discountPercent: 20, expiryDate: new Date("2024-11-16") },
