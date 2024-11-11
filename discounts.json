@@ -11,6 +11,6 @@
     { "code": "PRENOTAORA23", "discountPercent": 20, "expiryDate": "2024-11-23" },
     { "code": "PRENOTAORA24", "discountPercent": 20, "expiryDate": "2024-11-24" },
     { "code": "PRENOTAORA25", "discountPercent": 20, "expiryDate": "2024-11-25" },
-    { "code": "HALLOWEEN24", "discountPercent": 30, "expiryDate": "2024-11-15" },
+    { "code": "HALLOWEEN24", "discountPercent": 30, "expiryDate": "2024-11-15" }
     ]
 }
